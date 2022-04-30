@@ -1,0 +1,109 @@
+/*cuerpo*/
+
+body {
+    background-color: rgba(137, 194, 190, 0.955);
+    margin-top: 100px;
+}
+
+
+/*barra nav*/
+
+.logobarra {
+    height: 50px;
+}
+
+
+/*cabecera de la pagina*/
+
+.cab {
+    background-image: url(/assets/img/log1.jpeg);
+    background-size: 1700px;
+    min-height: 150px;
+}
+
+
+/*nombre de la pagina*/
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma;
+    font-size: 3rem;
+    text-align: center;
+}
+
+
+/*logo delicake*/
+
+img {
+    height: 200px;
+    width: 200px;
+}
+
+
+/*fin de la cabecera*/
+
+
+/*tabla*/
+
+.forma {
+    margin: auto;
+    padding-top: 50px;
+}
+
+
+/*texto de tabla */
+
+tr,
+td {
+    font-size: 50px;
+    padding-left: 20px;
+}
+
+
+/*formato de las imagenes de tabla*/
+
+.menu {
+    height: 200px;
+    width: 300px;
+    transition: all 0.5s ease;
+}
+
+
+/*animacion*/
+
+.menu:hover {
+    transform: scale(0.9);
+    border-radius: 30px;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1em;
+    text-align: center;
+}
+
+
+/*fin de tabla*/
+
+
+/*pie de pag*/
+
+footer {
+    height: 3em;
+    padding: 8em auto;
+    font-size: 1.5em;
+    align-self: flex-end;
+    background-color: brown;
+}
+
+.fot {
+    padding-top: 20px;
+    padding-left: 20rem auto;
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+/*fin de pie de pag*/

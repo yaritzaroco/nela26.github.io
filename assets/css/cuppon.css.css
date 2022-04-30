@@ -1,0 +1,54 @@
+    /*barra de navegación*/
+    
+    .navbar {
+        background-color: #28a745;
+        text-align: right;
+    }
+    
+    .logobarra {
+        height: 50px;
+    }
+    
+    .logonav {
+        width: 100px;
+    }
+    /*tarjetas padre*/
+    
+    .container {
+        margin-top: 50px;
+    }
+    
+    .card {
+        margin-bottom: 50px;
+    }
+    
+    .precio {
+        text-align: right;
+    }
+    /*precio verde*/
+    
+    .precioverde {
+        color: #28a745;
+        font-size: 19px;
+    }
+    /*formulario*/
+    
+    .formul {
+        background-color: #28a745;
+        color: white;
+    }
+    
+    .boton {
+        text-align: center;
+        color: azure;
+    }
+    /*alineación del footer*/
+    
+    footer {
+        text-align: center;
+    }
+    /*img del footer*/
+    
+    .logo2 {
+        width: 70px;
+    }

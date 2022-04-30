@@ -1,0 +1,48 @@
+/*cuerpo*/
+
+body {
+    font-family: "Raleway", sans-serif;
+    background-color: rgb(4, 27, 44);
+}
+
+
+/* Mis trabajos */
+
+.prueba {
+    background-color: rgb(4, 27, 44);
+}
+
+.container2 {
+    height: 70px;
+    background-color: rgb(38, 5, 5);
+}
+
+.row {
+    background-color: rgb(4, 27, 44);
+    text-align: center;
+    margin: 7%;
+}
+
+.card {
+    border: rgb(54, 6, 6) solid;
+    margin: 50px;
+    text-align: center;
+}
+
+
+/* Contacto */
+
+.form {
+    color: aliceblue;
+    text-align: center;
+    background-color: rgb(38, 5, 5);
+}
+
+.contacto {
+    background-color: rgb(38, 5, 5);
+}
+
+.contacto form label {
+    font-weight: 700;
+    color: hsl(203, 24%, 83%);
+}
